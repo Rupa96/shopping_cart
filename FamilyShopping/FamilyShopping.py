@@ -9,7 +9,6 @@ class FamilyShopping(ParentShopping):
     familyShoppingBag.append("Pulse")
     familyShoppingBag.append("Sofa Cover")
     familyShoppingBag.append("Pillow")
-    familyShoppingBag = list()
     familyShoppingBag.append("Rice")
     familyShoppingBag.append("Table")
     familyShoppingBag.append("Pulse")
